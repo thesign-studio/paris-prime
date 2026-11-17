@@ -2,4 +2,4 @@
 :HL["/paris-prime/_next/static/chunks/0dns4x_cbhm_b.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"iovpaK0rwDhLOU2aMNjTT","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"M9pMKyiBYGck_mAZSwJML","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

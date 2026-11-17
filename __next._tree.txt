@@ -1,4 +1,4 @@
-:HL["/paris-prime/_next/static/chunks/25o-_5pqza6lw.css","style"]
+:HL["/paris-prime/_next/static/chunks/12s62l12h_36w.css","style"]
 :HL["/paris-prime/_next/static/chunks/2ryxijlarouhk.css","style"]
 :HL["/paris-prime/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/paris-prime/_next/static/media/73c8302d2fdfe340-s.p.30xqm3yldpj47.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -7,4 +7,4 @@
 :HL["/paris-prime/_next/static/media/faf223fcebdab05f-s.p.0rrr4v4rsoo3q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/paris-prime/_next/static/chunks/1t7djzpxzg09b.css","style"]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"frXqa1opxaCEqMhZXx9SZ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"4nEtPA3y4eKXUa9fWnkVi","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

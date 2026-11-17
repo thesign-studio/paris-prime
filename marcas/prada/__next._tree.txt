@@ -1,5 +1,5 @@
 :HL["/paris-prime/_next/static/chunks/27os7xlplwz3c.css","style"]
-:HL["/paris-prime/_next/static/chunks/40ey34awoq-37.css","style"]
+:HL["/paris-prime/_next/static/chunks/116er65fv-fvq.css","style"]
 :HL["/paris-prime/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/paris-prime/_next/static/media/61e56fd33ece1ad8-s.p.0op912u62qdhl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/paris-prime/_next/static/media/73c8302d2fdfe340-s.p.30xqm3yldpj47.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -9,4 +9,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"prada","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"marcas","h":64,"c":"$Q2"}]]
-0:{"b":"yKgDU5Pnn_tGQQ1PNCgbD","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"Cg99-UunOQ7fOPiA8FZMA","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

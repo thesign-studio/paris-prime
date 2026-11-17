@@ -1,5 +1,5 @@
-:HL["/paris-prime/_next/static/chunks/1rcd68u9g2htx.css","style"]
-:HL["/paris-prime/_next/static/chunks/0dns4x_cbhm_b.css","style"]
+:HL["/paris-prime/_next/static/chunks/27os7xlplwz3c.css","style"]
+:HL["/paris-prime/_next/static/chunks/40ey34awoq-37.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"ald8Au0i_QKFkzZalhUeZ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"yKgDU5Pnn_tGQQ1PNCgbD","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

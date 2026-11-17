@@ -8,4 +8,4 @@
 :HL["/paris-prime/_next/static/chunks/3mjorflh96min.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"atendimento","h":64,"c":"$Q2"}]]
-0:{"b":"2RPxMl3MiBdqL7xvRJFa2","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"zUf_NXLfw6UVDMmGW9vng","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

@@ -8,4 +8,4 @@
 :HL["/paris-prime/_next/static/media/faf223fcebdab05f-s.p.0rrr4v4rsoo3q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/paris-prime/_next/static/chunks/29augz8j1wvfc.css","style"]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"Cg99-UunOQ7fOPiA8FZMA","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"-yqbU-1ttcm7QShdYAXGq","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

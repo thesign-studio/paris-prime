@@ -8,4 +8,4 @@
 :HL["/paris-prime/_next/static/media/faf223fcebdab05f-s.p.0rrr4v4rsoo3q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"atendimento","h":64,"c":"$Q2"}]]
-0:{"b":"Cg99-UunOQ7fOPiA8FZMA","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"-yqbU-1ttcm7QShdYAXGq","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

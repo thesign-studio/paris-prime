@@ -1,8 +1,8 @@
 2:"$Sreact.fragment"
 3:"/paris-prime/_next/static/chunks/18w18mx73di1i.js"
-4:"/paris-prime/_next/static/chunks/25-fz4urncuwk.js"
-5:"/paris-prime/_next/static/chunks/3-_w5xt2q3d31.js"
-6:"/paris-prime/_next/static/chunks/1nbt9c72vskky.js"
+4:"/paris-prime/_next/static/chunks/1dbjkmy0btub2.js"
+5:"/paris-prime/_next/static/chunks/09miwh-_m1r2n.js"
+6:"/paris-prime/_next/static/chunks/3xtnhge7uc4vh.js"
 7:I[39756,["$3","$4","$5","$6"],"default"]
 8:I[37457,["$3","$4","$5","$6"],"default"]
 d:I[22016,["$3","$4","$5","$6"],""]
@@ -18,7 +18,7 @@ a:C
 b:X
 c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"envelope","children":[["$","header",null,{"className":"fNgp0q_cabeca","children":[["$","p",null,{"className":"rotulo","children":"Área do cliente"}],["$","h1",null,{"className":"titulo-xl","children":"Sua conta"}],["$","p",null,{"className":"texto secundario","children":"Consulte pedidos e gerencie seus dados."}]]}],["$","div",null,{"className":"fNgp0q_duas","children":["$","div",null,{"className":"fNgp0q_texto","children":[["$","p",null,{"className":"texto","children":"Acompanhe o andamento de um pedido:"}],["$","$Ld",null,{"href":"/pedido?t=demo-7f3k9q","className":"botao botao--linha","style":{"justifySelf":"start"},"children":"Ver pedido"}]]}]}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$b"}}]]
 1:[["children",{"s":"conta","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Conta · Paris Prime"}],["$","meta","1",{"name":"description","content":"Óculos de sol e de grau das grandes grifes, com a seleção e o atendimento da Paris Prime Óticas."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/paris-prime/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L16","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$b"}},"a":"$@18","u":"$@19","b":"Cg99-UunOQ7fOPiA8FZMA"}
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Conta · Paris Prime"}],["$","meta","1",{"name":"description","content":"Óculos de sol e de grau das grandes grifes, com a seleção e o atendimento da Paris Prime Óticas."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/paris-prime/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L16","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$b"}},"a":"$@18","u":"$@19","b":"-yqbU-1ttcm7QShdYAXGq"}
 10:null
 19:true
 b:300

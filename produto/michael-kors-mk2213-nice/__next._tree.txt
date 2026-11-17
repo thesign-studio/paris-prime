@@ -6,9 +6,9 @@
 :HL["/paris-prime/_next/static/media/9f5be66613d9c872-s.p.27korwsf9c79u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/paris-prime/_next/static/media/d236bb4c0caf68e4-s.p.14og3_uq6yls0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/paris-prime/_next/static/media/faf223fcebdab05f-s.p.0rrr4v4rsoo3q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/paris-prime/_next/static/chunks/1jmpomidunfhj.css","style"]
+:HL["/paris-prime/_next/static/chunks/0z__vmoztrvtx.css","style"]
 :HL["/paris-prime/_next/static/chunks/0y7hh7268grxa.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"michael-kors-mk2213-nice","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"produto","h":64,"c":"$Q2"}]]
-0:{"b":"1izDVu3HjAbUWHJ-NpE3A","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"iovpaK0rwDhLOU2aMNjTT","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

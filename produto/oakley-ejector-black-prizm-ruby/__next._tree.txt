@@ -1,4 +1,4 @@
-:HL["/paris-prime/_next/static/chunks/2shruwhll2uwm.css","style"]
+:HL["/paris-prime/_next/static/chunks/1rcd68u9g2htx.css","style"]
 :HL["/paris-prime/_next/static/chunks/0dns4x_cbhm_b.css","style"]
 :HL["/paris-prime/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/paris-prime/_next/static/media/61e56fd33ece1ad8-s.p.0op912u62qdhl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,9 +6,9 @@
 :HL["/paris-prime/_next/static/media/9f5be66613d9c872-s.p.27korwsf9c79u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/paris-prime/_next/static/media/d236bb4c0caf68e4-s.p.14og3_uq6yls0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/paris-prime/_next/static/media/faf223fcebdab05f-s.p.0rrr4v4rsoo3q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/paris-prime/_next/static/chunks/3z6p0pq48808y.css","style"]
+:HL["/paris-prime/_next/static/chunks/0dq2b2m2u5ynb.css","style"]
 :HL["/paris-prime/_next/static/chunks/0y7hh7268grxa.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"oakley-ejector-black-prizm-ruby","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"produto","h":64,"c":"$Q2"}]]
-0:{"b":"M9pMKyiBYGck_mAZSwJML","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"ald8Au0i_QKFkzZalhUeZ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
